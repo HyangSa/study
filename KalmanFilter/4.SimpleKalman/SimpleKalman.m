@@ -9,8 +9,9 @@ if isempty(firstRun)
     H=1;
     Q=0;
     R=4;
-    x=14;
-    P=6;
+    x=1;
+    P=1
+    ;
     firstRun=1;
 end
 
